@@ -1,2 +1,2 @@
-# chu-webpack-template
-脚手架模板
+# vue-ssr
+vuejs server render
