@@ -1,2 +1,2 @@
-# vue-ssr
-vuejs server render
+# chu-vue-cli
+搭建Vue项目脚手架
