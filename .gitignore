@@ -1,2 +1,12 @@
-node_modules/
-/dist/
+node_modules
+.DS_Store
+design
+*.log
+packages/test
+dist
+temp
+.vuerc
+.version
+.versions
+.changelog
+package-lock.json
